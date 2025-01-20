@@ -10,7 +10,7 @@
     "keywords": [],
     "author": "",
     "license": "ISC",
-    "description": "A full stack todo application that uses a NodeJS backend, a SQLite database and JWT authentication.",
+    "description": "A full stack application using Express, SQlite, bcrypt and JWT.",
     "dependencies": {
         "bcryptjs": "^2.4.3",
         "express": "^4.21.2",
